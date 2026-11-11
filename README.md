@@ -1,3 +1,8 @@
+> **Moved:** This project is maintained in [quant-research-r/projects/synthetic-control-lab-r](https://github.com/john-stromberg/quant-research-r/tree/main/projects/synthetic-control-lab-r).
+> This repository is retained as a historical snapshot.
+
+---
+
 # synthetic-control-lab-r
 
 Econometrics R module scaffold with analytics, report, and tests.
